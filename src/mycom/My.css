@@ -1,0 +1,17 @@
+div {
+  display: inline-block;
+  background-color: #61DAFC;
+  color: #282c34;
+}
+
+.name {
+  width: 40vw;
+  height: 2em;
+}
+
+.clock {
+  height: max-content;
+  width: 60vw;
+  font-size: 2rem;
+  text-align: left;
+}
